@@ -1,3 +1,3 @@
 # kola
 
-This project is about my doy and her name is kola.
+This project is about my dog and her name is kola.
